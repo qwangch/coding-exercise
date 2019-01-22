@@ -18,8 +18,6 @@ This coding test uses java-string-similarity library (https://github.com/tdebatt
 
         java -jar target/take-home-test-1.0.jar
 
-## Test it
-
 ### curl
 
 The TomCat server will run on port 8080
