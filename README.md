@@ -1,8 +1,6 @@
 # Validity Take Home excercise
 
-This coding test use java-string-similarity library (https://github.com/tdebatty/java-string-similarity) to compute fuzzy match.
-This library implementing A dozen of algorithms (including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence,
-cosine similarity etc.). After few tests, I selected the one that I think it's best for the fuzzy macth.
+This coding test uses java-string-similarity library (https://github.com/tdebatty/java-string-similarity) to compute the fuzzy match.This library implementing A dozen of algorithms (including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence,cosine similarity etc.). After few tests, I selected the one that I think it's best for the fuzzy macth.
 
 ## Setup
 
