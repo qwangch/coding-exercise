@@ -1,5 +1,9 @@
 # Validity Take Home excercise
 
+This coding test use java-string-similarity library (https://github.com/tdebatty/java-string-similarity) to compute fuzzy match.
+This library implementing A dozen of algorithms (including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence,
+cosine similarity etc.). After few tests, I selected the one that I think it's best for the fuzzy macth.
+
 ## Setup
 
 1. Install maven on mac
@@ -17,12 +21,6 @@
         java -jar target/take-home-test-1.0.jar
 
 ## Test it
-
-### Unit tests
-
-Unit tests will run every time you run and build the app. To run only the unit tests, run the following.
-
-    mvn test
 
 ### curl
 
@@ -42,3 +40,6 @@ If the TomCat server cannot run because something else is running on the same po
     COMMAND   PID    USER   FD
     java    65349 bhatiar  165u
     ✗ kill -9 65349
+
+## TO DO
+ unit tests
